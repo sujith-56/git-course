@@ -1,0 +1,2 @@
+admin manages the users
+and maintains all the things
