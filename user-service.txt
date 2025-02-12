@@ -4,6 +4,10 @@ process the data
 
 create a avater for a user
 change you profile pic
+<<<<<<< HEAD
 
 hope you are doing well
 .
+=======
+hi hi
+>>>>>>> feature3
